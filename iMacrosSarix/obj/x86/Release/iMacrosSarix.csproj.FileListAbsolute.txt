@@ -1,0 +1,14 @@
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\bin\Release\iMacrosSarix.exe.manifest
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\bin\Release\iMacrosSarix.application
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\bin\Release\iMacrosSarix.exe
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\bin\Release\iMacrosSarix.pdb
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\bin\Release\Interop.iMacros.dll
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.Main.resources
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.Properties.Resources.resources
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.exe.manifest
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.application
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.exe
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\iMacrosSarix\iMacrosSarix\obj\x86\Release\iMacrosSarix.pdb
